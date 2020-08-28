@@ -181,15 +181,7 @@
 		"iap": false,
 		"tabs": [
 
-			{
-				"title": "اسألوا لبيبة",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74XUgKQX210LKlip6ISfPYBW",
-					"playlist"
-
-				]
-			},
+		
 
             {
 				"title": "كان يا ما كان الحياة",
@@ -223,16 +215,6 @@
 			
 			
 			{
-				"title": "عظماء و مشاهير العالم",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74U2sgFi1wiwffUin1vbMCWq",
-					"playlist"
-
-				]
-			} ,
-			
-			{
 				"title": "دمتم سالمين",
 				"provider": "youtube",
 				"arguments": [
@@ -242,28 +224,6 @@
 				]
 			} ,
 			
-			
-			{
-				"title": "حروف و كلمات",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74Voz06ZSfW0pSRsFlTVAvN5",
-					"playlist"
-
-				]
-			}
-			,
-			
-			{
-				"title": "قف اشارات المرور",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74ViMjHRtsqJzfqKomgorqrh",
-					"playlist"
-
-				]
-			}
-			,
 			
 			{
 				"title": "الصديقان",
@@ -280,67 +240,6 @@
 		]
 	},
 						
-	{
-		"title": "كـرتـون - مـغامـرات",
-		"drawable": "",
-		"submenu": "كـرتـون - مـغامـرات",
-		"iap": false,
-		"tabs": [
-
-			{
-				"title": "لولو الصغيرة",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74UJYH02V08WRV-1V2Y3xY8N",
-					"playlist"
-
-				]
-			},
-
-            {
-				"title": "مغامرات في الغابة",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74VxGTdsKCkxQn-PSxlX3ONC",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "مغامرات نغم",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74V4DiYd7u4l5H1kRoeh77cu",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "مغامرات هاني",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74UHDzUNHf_o1pyrs5ho7ijW",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "مغامرات بن بن و العم شنبو",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74X4V3Bk7L37lU7t8Krusf3q",
-					"playlist"
-
-				]
-			}
-			
-			 
-
-		]
-	},
 		
 	{
 		"title": "كـرتـون - اكـشـن",
@@ -387,16 +286,6 @@
 					"playlist"
 
 				]
-			},
-			
-			{
-				"title": "ساسوكي",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74WvS3VF8tKLk2IaKrw5qI5e",
-					"playlist"
-
-				]
 			}
 			
 			 
@@ -429,74 +318,11 @@
 					"playlist"
 
 				]
-			},
-			
-			{
-				"title": "الضربة الصاعقة",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74UqmZaAX2esTUH-KRNfI-Jk",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "السائق",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74XO5OS7mmSiz79eea-3yzmY",
-					"playlist"
-
-				]
 			}
 											
 
 		]
 	},
-	
-	{
-		"title": "كـرتـون - حـكـايــات",
-		"drawable": "",
-		"submenu": "كـرتـون - حـكـايــات",
-		"iap": false,
-		"tabs": [
-
-			{
-				"title": "في جعبتي حكاية",
-				"provider": "youtube",
-				"arguments": [
-					"PLHw36E2bPxFesXg3sDCyOewj-62b-V9QE",
-					"playlist"
-
-				]
-			},
-
-            {
-				"title": "حكايات عالمية",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74V2YTmzUU9Im0EGNVwZ6iV5",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "حكايات ما احلاها",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74V5HhP1zk23B5SImdGlfqTx",
-					"playlist"
-
-				]
-			}
-											
-
-		]
-	} ,
-	
-	
 	
 	{
 		"title": "كـرتـون - درامــا",
@@ -565,16 +391,6 @@
 					"playlist"
 
 				]
-			},
-			
-			{
-				"title": "كعبول",
-				"provider": "youtube",
-				"arguments": [
-					"PLbXneORxd74WLiE6H9wtqleVQ0bDfX7XL",
-					"playlist"
-
-				]
 			}
 											
 
@@ -592,7 +408,7 @@
 				"title": "الكابتن ماجد الجزء 01 الاول",
 				"provider": "youtube",
 				"arguments": [
-					"PLSE5S9O81V-PtqCJ-9ioMN5KGX6daTdDb",
+					"PL0EspT3XLWi0pfYToyPpPhMNYsDCQiRCE",
 					"playlist"
 
 				]
@@ -602,7 +418,7 @@
 				"title": "الكابتن ماجد الجزء 02 الثاني",
 				"provider": "youtube",
 				"arguments": [
-					"PLSE5S9O81V-OJbjTqgeSOzFcJiI4IDI8U",
+					"PLWpijp1T-geGb9zvJy4u2c4ZdfrVqUD7t",
 					"playlist"
 
 				]
@@ -613,7 +429,7 @@
 				"title": "الكابتن ماجد الجزء 03 الثالث",
 				"provider": "youtube",
 				"arguments": [
-					"PLbXneORxd74XuAKeOX20zEfP4x9qVSPNx",
+					"PL8SZfcm5OoQNeUkcQdkfqFCYwmzWM2vcM",
 					"playlist"
 
 				]
@@ -633,7 +449,7 @@
 				"title": "الكابتن ماجد الشبح الجزء 05 الخامس",
 				"provider": "youtube",
 				"arguments": [
-					"PLf8SAyWdnvyIHnVMCfZehgK6RbCXNxzTJ",
+					"PL3EVnOPGF41LJNigfwKdX3Qz9JPTFdQiD",
 					"playlist"
 
 				]
@@ -665,16 +481,6 @@
 				"provider": "youtube",
 				"arguments": [
 					"PLrfJ0AnNpoLvaK9uniasUB-KxbiDExtte",
-					"playlist"
-
-				]
-			},
-			
-			{
-				"title": "المحقق كونان الجزء تاسع",
-				"provider": "youtube",
-				"arguments": [
-					"PLvmzV9S4OdsFbtTNc9MdAF5UXKP6eUckX",
 					"playlist"
 
 				]
